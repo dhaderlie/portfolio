@@ -72,6 +72,7 @@ h1 {
 
 h2 {
     text-align: center;
+    text-transform: uppercase;
 }
 
 #about {
@@ -97,6 +98,24 @@ h2 {
     text-align: center;
     margin: 0 200px;
     padding: 20px 0;
+}
+
+.contact {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.contact_text {
+    text-align: left;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.experience {
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 768px) {
